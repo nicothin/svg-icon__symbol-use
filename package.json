@@ -1,0 +1,28 @@
+{
+  "name": "svg-icon__symboll-use",
+  "version": "0.0.1",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nicothin/svg-icon__symboll-use"
+  },
+  "author": "Nikolay Gromov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nicothin/svg-icon__symboll-use/issues"
+  },
+  "homepage": "https://github.com/nicothin/svg-icon__symboll-use",
+  "devDependencies": {},
+  "dependencies": {
+    "gulp": "github:gulpjs/gulp#4.0",
+    "gulp-cheerio": "^0.6.2",
+    "gulp-file-include": "^1.0.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-svgmin": "^1.2.3",
+    "gulp-svgstore": "^6.1.0"
+  }
+}
