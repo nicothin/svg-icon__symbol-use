@@ -38,7 +38,7 @@ gulp.task('html', function() {
       basepath: '@file',
       indent: true,
     }))
-    .pipe(gulp.dest('./build'));
+    .pipe(gulp.dest('./docs'));
 });
 
 gulp.task('build', gulp.series(
